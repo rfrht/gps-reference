@@ -1,5 +1,4 @@
-# gps-reference
-GPS-Referenced Programmable Precision Signal Generator
+# GPS-Referenced Programmable Precision Signal Generator
 
 **Current state:** Alpha
 **Next steps:** Procure the board, the components, assemble & test.
