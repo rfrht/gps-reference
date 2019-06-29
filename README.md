@@ -1,6 +1,7 @@
 # GPS-Referenced Programmable Precision Signal Generator
 
 **Current state:** Alpha
+
 **Next steps:** Procure the board, the components, assemble & test.
 
 This is the do-it-yourself version of the u-Blox-based GPS-Referenced Programmable Precision Signal Generator.
@@ -15,7 +16,9 @@ There is a [Gerber](https://github.com/rfrht/gps-reference/raw/master/Design/gps
 
 ## Board pictures:
 Top:
+
 ![Board front](https://github.com/rfrht/gps-reference/raw/master/Design/gps-top.png)
 
 Bottom:
+
 ![Board back](https://github.com/rfrht/gps-reference/raw/master/Design/gps-bottom.png)
