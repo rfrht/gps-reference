@@ -21,7 +21,7 @@ The great frequencies are, namely:
 |3.000 MHz |
 |2.000 MHz | 
 
-Bear in mind that the RA3APW tested U-Blox M-7 hardware, while in this project we will be using the new [M-8 series, Q](https://www.u-blox.com/en/product/neo-m8q-01a-module) version which sports a TCXO, (hopefully) increasing precision.
+Bear in mind that the RA3APW tested U-Blox M-7 hardware, while in this project we will be using the new [NEO-M8Q-01A Automotive grade](https://www.u-blox.com/en/product/neo-m8q-01a-module) version which sports a TCXO, (hopefully) increasing precision.
 
 This board design is largely inspired by [ZL2PD design](https://www.zl2pd.com/GPS_Freq_Ref.html) and features a few other stuff, like break-out headers for I2C, Serial, USB, External Battery and antenna selector.
 
