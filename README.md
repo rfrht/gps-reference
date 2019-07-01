@@ -29,7 +29,7 @@ The [schematics](/Schematics) are in Autodesk Eagle CAD format.
 
 There are two signal outputs; one DC-coupled, suitable for logic level output and an AC-coupled output.
 
-There is a [Gerber](https://github.com/rfrht/gps-reference/raw/master/Design/gps-gerbers.zip) for ordering a PCB from your favourite PCB shop, as well [Digi-Key](/Design/gps-bom.csv) Bill of Materials, which currently costs around $27 (including the u-blox M8 IC).
+There is a [Gerber](https://github.com/rfrht/gps-reference/raw/master/Design/gps-gerbers.zip) for ordering a PCB from your favourite PCB shop (Hint: $2 in jlcpcb.com for 5 units), as well a Digi-Key friendly [Bill of Materials](/Design/gps-bom.csv), which currently costs around $27 (including the GPS module).
 
 ## Board pictures:
 Top:
