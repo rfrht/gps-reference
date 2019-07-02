@@ -6,7 +6,11 @@
 
 This is the do-it-yourself version of the u-Blox-based GPS-Referenced Programmable Precision Signal Generator. While this is **not** a [GPS-Disciplined Oscillator](https://en.wikipedia.org/wiki/GPS_disciplined_oscillator) but a [Numerically Controlled Oscillator](https://en.wikipedia.org/wiki/Numerically_controlled_oscillator) instead.
 
-This is not all sad news - RA3APW [did some some extensive research (Russian content)](http://www.ra3apw.ru/proekty/ublox-neo-7m/) and found that there are a few frequencies where there is some very good precision for the general hobbyist, yielding precision between 0.1 PPM to 1 PPB.
+The board design is largely inspired by [ZL2PD design](https://www.zl2pd.com/GPS_Freq_Ref.html) and features a few other stuff, like break-out headers for I2C, Serial, USB, External Battery and antenna selector. There are two signal outputs; one DC-coupled, suitable for logic level output and an AC-coupled output.
+
+RA3APW [did some some extensive research (Russian content)](http://www.ra3apw.ru/proekty/ublox-neo-7m/) and found that there are a few frequencies where there is some very good precision for the general hobbyist, yielding precision between 0.1 PPM to 1 PPB.
+
+Bear in mind that the RA3APW tested U-Blox M-7 hardware, while in this project we will be using the newer generation [NEO-M8Q-01A Automotive grade](https://www.u-blox.com/en/product/neo-m8q-01a-module), which sports a [TCXO](https://en.wikipedia.org/wiki/Crystal_oscillator#Temperature), (hopefully) increasing precision.
 
 The great frequencies are, namely:
 
@@ -21,13 +25,7 @@ The great frequencies are, namely:
 |3.000 MHz |
 |2.000 MHz | 
 
-Bear in mind that the RA3APW tested U-Blox M-7 hardware, while in this project we will be using the new [NEO-M8Q-01A Automotive grade](https://www.u-blox.com/en/product/neo-m8q-01a-module) version which sports a TCXO, (hopefully) increasing precision.
-
-This board design is largely inspired by [ZL2PD design](https://www.zl2pd.com/GPS_Freq_Ref.html) and features a few other stuff, like break-out headers for I2C, Serial, USB, External Battery and antenna selector.
-
 The [schematics](/Schematics) are in Autodesk Eagle CAD format.
-
-There are two signal outputs; one DC-coupled, suitable for logic level output and an AC-coupled output.
 
 There is a [Gerber](https://github.com/rfrht/gps-reference/raw/master/Design/gps-gerbers.zip) for ordering a PCB from your favourite PCB shop (Hint: $2 in jlcpcb.com for 5 units), as well a Digi-Key friendly [Bill of Materials](/Design/gps-bom.csv), which currently costs around $27 (including the GPS module).
 
