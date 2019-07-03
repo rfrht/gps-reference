@@ -1,8 +1,8 @@
 # GPS-Referenced Programmable Precision Signal Generator
 
-**Current state:** Alpha
+**Current state:** Beta, procured the board, awaiting delivery
 
-**Next steps:** Procure the board, the components, assemble & test.
+**Next steps:** Procure the components, assemble & test.
 
 This is the do-it-yourself version of the u-Blox-based **GPS-Referenced Programmable Precision Signal Generator**.
 
