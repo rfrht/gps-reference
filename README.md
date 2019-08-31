@@ -20,14 +20,14 @@ The tested high reliability frequencies are, namely:
 
 | Frequency | Frequency |
 | --- | --- |
-| [300 kHz](https://rf01.co:8443/q/gps-ref-300-khz.png) | [500 kHz](https://rf01.co:8443/q/gps-ref-500-khz.png) |
-| [1 MHz](https://rf01.co:8443/q/gps-ref-1-mhz.png) | [1.2 MHz](https://rf01.co:8443/q/gps-ref-1-2-mhz.png) |
-| [1.5 MHz](https://rf01.co:8443/q/gps-ref-1-5-mhz.png) | [1.6 MHz](https://rf01.co:8443/q/gps-ref-1-6-mhz.png) |
-| [2 MHz](https://rf01.co:8443/q/gps-ref-2-mhz.png) | [2.4 MHz](https://rf01.co:8443/q/gps-ref-2-4-mhz.png) |
-| [3 MHz](https://rf01.co:8443/q/gps-ref-3-mhz.png) | [4 MHz](https://rf01.co:8443/q/gps-ref-4-mhz.png) |
-| [4.8 MHz](https://rf01.co:8443/q/gps-ref-4-8-mhz.png) | [6 MHz](https://rf01.co:8443/q/gps-ref-6-mhz.png) |
-| [8 MHz](https://rf01.co:8443/q/gps-ref-8-mhz.png) | [12 MHz](https://rf01.co:8443/q/gps-ref-12-mhz.png) |
-| [24 MHz](https://rf01.co:8443/q/gps-ref-24-mhz.png) | --- |
+| [300 kHz](https://rf01.co:8443/q/gps/gps-ref-300-khz.png) | [500 kHz](https://rf01.co:8443/q/gps/gps-ref-500-khz.png) |
+| [1 MHz](https://rf01.co:8443/q/gps/gps-ref-1-mhz.png) | [1.2 MHz](https://rf01.co:8443/q/gps/gps-ref-1-2-mhz.png) |
+| [1.5 MHz](https://rf01.co:8443/q/gps/gps-ref-1-5-mhz.png) | [1.6 MHz](https://rf01.co:8443/q/gps/gps-ref-1-6-mhz.png) |
+| [2 MHz](https://rf01.co:8443/q/gps/gps-ref-2-mhz.png) | [2.4 MHz](https://rf01.co:8443/q/gps/gps-ref-2-4-mhz.png) |
+| [3 MHz](https://rf01.co:8443/q/gps/gps-ref-3-mhz.png) | [4 MHz](https://rf01.co:8443/q/gps/gps-ref-4-mhz.png) |
+| [4.8 MHz](https://rf01.co:8443/q/gps/gps-ref-4-8-mhz.png) | [6 MHz](https://rf01.co:8443/q/gps/gps-ref-6-mhz.png) |
+| [8 MHz](https://rf01.co:8443/q/gps/gps-ref-8-mhz.png) | [12 MHz](https://rf01.co:8443/q/gps/gps-ref-12-mhz.png) |
+| [24 MHz](https://rf01.co:8443/q/gps/gps-ref-24-mhz.png) | --- |
 
 There are certainly others. It seem to follow some mathematical order, but I failed to figure out the proper sequence.
 
