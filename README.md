@@ -50,6 +50,8 @@ Use the [U-Blox U-Center](https://www.u-blox.com/en/product/u-center) tool to co
 
 ![U-Blox Signal Generator configuration](https://rf3.org:8443/q/gps/gps-ref-ublox-config.png)
 
+*U-Blox Configuration page - Click to enlarge*
+
 ## Artefacts
 
 The [schematics](/Schematics) are in Autodesk Eagle CAD format.
