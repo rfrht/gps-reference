@@ -8,11 +8,11 @@
 
 This is the do-it-yourself version of the u-Blox-based **GPS-Referenced Programmable Precision Signal Generator**.
 
-In this version/revision, there's a Si5351-C clock generator driven by the GPS signal, hoping to be able to get more and cleaner signals using the GPS as a reference.
+In this version/revision, there's a Si5351-C clock generator driven by the GPS signal, hoping to be able to get more and cleaner signals using the GPS as a reference. See the [schematic](/gps-schematics.pdf).
 
 The I²C bus is shared between the U-Blox and the Si5351C device. The clock signal level is TTL 3.3V.
 
-The board was inspired by [ZL2PD design](https://www.zl2pd.com/GPS_Freq_Ref.html) and features a few other stuff, like break-out headers for I2C, Serial, USB, External Battery and antenna selector. There are two signal outputs; one [DC-coupled (0-3.3V)](https://rf3.org:8443/q/gps/gps-ref-1-mhz.png), suitable for logic level output and an [AC-coupled (-1.6V - 1.6V)](https://rf3.org:8443/q/gps/gps-ref-dc-1-hz.png) output.
+The board was inspired by [ZL2PD design](https://www.zl2pd.com/GPS_Freq_Ref.html) and features a few other stuff, like break-out headers for I2C, Serial, USB, External Battery and antenna selector.
 
 RA3APW [did some some extensive research (Russian content)](http://www.ra3apw.ru/proekty/ublox-neo-7m/) and found that there are a few frequencies where there is some very good precision for the general hobbyist, yielding precision between 0.1 PPM to 1 PPB. This is not a [GPS-Disciplined Oscillator](https://en.wikipedia.org/wiki/GPS_disciplined_oscillator) but a high precision [Numerically Controlled Oscillator](https://en.wikipedia.org/wiki/Numerically_controlled_oscillator) instead.
 
