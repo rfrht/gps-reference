@@ -2,7 +2,7 @@
 
 **Current state:** Board built and operational! However, you will want to check [Issues](https://github.com/rfrht/gps-reference/issues)
 
-**Next steps:** Fix issues and release a Revision B.
+**Next steps:** Fix issues and release a [Revision B](https://github.com/rfrht/gps-reference/tree/Experimental) - Already WIP.
 
 ## Overview
 
