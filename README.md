@@ -20,7 +20,7 @@ RA3APW [did some some extensive research (Russian content)](http://www.ra3apw.ru
 
 Bear in mind that the RA3APW tested U-Blox M-7 hardware, while in this project we will be using the newer generation [NEO-M8Q-01A Automotive grade](https://www.u-blox.com/en/product/neo-m8q-01a-module), which sports a [TCXO](https://en.wikipedia.org/wiki/Crystal_oscillator#Temperature), (hopefully) increasing precision.
 
-## Frequencies
+## Frequencies (those tests are for the [Revision A Board](https://github.com/rfrht/gps-reference), not this experimental revision!)
 
 The tested high reliability frequencies are, namely:
 
@@ -62,7 +62,7 @@ Use the [U-Blox U-Center](https://www.u-blox.com/en/product/u-center) tool to co
 
 The [schematics](/Schematics) are in Autodesk Eagle CAD format.
 
-There is a [Gerber](https://github.com/rfrht/gps-reference/raw/master/Design/gps-gerbers.zip) for ordering a PCB from your favourite PCB shop (Hint: $2 in jlcpcb.com for 5 units), as well a Digi-Key friendly [Bill of Materials](/Design/gps-bom.csv), which currently costs around $27 (including the GPS module).
+There is a [Gerber](/Design/gps-gerbers.zip) for ordering a PCB from your favourite PCB shop (Hint: $2 in jlcpcb.com for 5 units), as well a Digi-Key friendly [Bill of Materials](/Design/gps-bom.csv).
 
 ## Board pictures:
 Board: (Revision A, not this one)
