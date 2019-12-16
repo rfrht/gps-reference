@@ -65,7 +65,7 @@ The [schematics](/Schematics) are in Autodesk Eagle CAD format.
 There is a [Gerber](https://github.com/rfrht/gps-reference/raw/master/Design/gps-gerbers.zip) for ordering a PCB from your favourite PCB shop (Hint: $2 in jlcpcb.com for 5 units), as well a Digi-Key friendly [Bill of Materials](/Design/gps-bom.csv), which currently costs around $27 (including the GPS module).
 
 ## Board pictures:
-Board:
+Board: (Revision A, not this one)
 
 ![Board front](https://rf3.org:8443/q/gps/gps-referenced-oscillator.jpg)
 
