@@ -10,7 +10,7 @@ This is the do-it-yourself version of the u-Blox-based **GPS-Referenced Programm
 
 In this version/revision, there's a Si5351-C clock generator driven by the GPS signal, hoping to be able to get more and cleaner signals using the GPS as a reference. See the [schematic](/gps-schematics.pdf).
 
-The I²C bus is shared between the U-Blox and the Si5351C device. The clock signal level is TTL 3.3V.
+There are two I²C ports - one from the the U-Blox and other for the Si5351C device. The clock signal level is TTL 3.3V.
 
 ![Board Image](Design/gps-top.png)
 
